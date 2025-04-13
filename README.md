@@ -46,3 +46,35 @@ I simulated Tom's work. I created a new branch called "Update-navigation", made 
 I simulated Jery's work. I pulled the "Update-navigation branch from github and created a new branch called "Add-contact-info. I made changes to the index.html file by adding contact information. Then I ran the status, add, commit and push commands. The commit message is "added contact information".
 
 ![](/img/6.Jerrys-work.png)
+
+7. ### Reviewing And Merging Tom's work
+
+To review and merge Tom's work, I took the following steps:
+1. I navigated to the GitHub repository https://github.com/Crescentius00/ai-startup-website.
+2. I switched to the Update-navigation branch
+3. I reviewed Tom's changes
+4. Clicked on Create New Pull Request
+5. Finally I merged the branch after ensuring there are no conflits.
+
+The screenshots below shows how I created pull request and merged Tom's work.
+
+![](/img/7.Toms-pull-request.png)
+
+![](/img/8.Merge-toms-request.png)
+
+8. ### Reviewing And Merging Jerry's work
+
+To merge Jerry's work, Jerry has to use the git pull command to pull up the latest version of the project, use the git checkout command to switch to the Add-contact info branch. He then used git push origin add-contact-info to push to GitHub.
+
+I then took similar steps like I did for Tom:
+1. I navigated to the GitHub repository https://github.com/Crescentius00/ai-startup-website.
+2. I switched to the Add-contact-info branch
+3. I reviewed Jerry's changes and ensured there are no conflict
+4. Clicked on Create New Pull Request
+5. Finally I merged the branch after ensuring there are no conflits.
+
+The screenshots below shows how I created pull request and merged Jerry's work.
+
+![](/img/9.Jerrys-pull-request.png)
+
+![](/img/10.Merge-jerrys-request.png)
