@@ -2,7 +2,7 @@
 Third DevOps mini project
 
 ## INTRODCUTION
-This project simulates the workflow of Tom and Jerry using Git and GitHub. It is aimed at making one familiar with basic Git commands.
+The purpose of the project, is to simulate real-world team collaboration workflows using Git and GitHub, specifically focusing on pull requests and merging changes while resolving conflicts and synchronizing branches as necessary.
 
 ## PROJECT DETAILS
 1. ### Install Git.
@@ -49,7 +49,7 @@ I simulated Jery's work. I pulled the "Update-navigation branch from github and 
 
 7. ### Reviewing And Merging Tom's work
 
-To review and merge Tom's work, I took the following steps:
+To review and merge Tom's work to the main branch, I took the following steps:
 1. I navigated to the GitHub repository https://github.com/Crescentius00/ai-startup-website.
 2. I switched to the Update-navigation branch
 3. I reviewed Tom's changes
